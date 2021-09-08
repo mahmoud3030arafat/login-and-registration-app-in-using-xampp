@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  Elearning app
+
+  Created by Mahmoud on 7/8/21.
+  Copyright © 2021 mahmoud. All rights reserved.
+*/
+
+/* Class = "UIButton"; normalTitle = "Have an account? Sign in"; ObjectID = "2xp-g2-AfR"; */
+"2xp-g2-AfR.normalTitle" = "Have an account? Sign in";
+
+/* Class = "UILabel"; text = "Create an account"; ObjectID = "3Fc-Tq-mZy"; */
+"3Fc-Tq-mZy.text" = "Create an account";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "5pd-HB-qCW"; */
+"5pd-HB-qCW.normalTitle" = "REGISTER";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "DFz-sD-oqM"; */
+"DFz-sD-oqM.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "HPY-K6-UhW"; */
+"HPY-K6-UhW.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "JdO-X1-8hm"; */
+"JdO-X1-8hm.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Mgd-Ff-HlX"; */
+"Mgd-Ff-HlX.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "SN9-fd-ocm"; */
+"SN9-fd-ocm.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Y4j-2r-mBM"; */
+"Y4j-2r-mBM.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Don't have account?Sign up"; ObjectID = "hyi-DQ-ZTa"; */
+"hyi-DQ-ZTa.normalTitle" = "Don't have account?Sign up";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "oOD-NX-ZfH"; */
+"oOD-NX-ZfH.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Forget Password"; ObjectID = "pqk-h7-g7D"; */
+"pqk-h7-g7D.normalTitle" = "Forget Password";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN "; ObjectID = "rPy-hQ-7eE"; */
+"rPy-hQ-7eE.normalTitle" = "SIGN IN ";
